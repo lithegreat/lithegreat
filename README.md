@@ -74,5 +74,5 @@ BSc Electrical Engineering & IT
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=gray&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=lithegreat&label=Profile+Views&color=gray&style=flat" />
 </p>
