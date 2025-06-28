@@ -1,5 +1,5 @@
 <h1 align="center">Hengsheng Li</h1>
-<h3 align="center">MSc in Electrical Engineering @ TUM</h3>
+<h3 align="center">Electrical Engineering & IT @ TUM</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Embedded+Systems+%7C+RISC-V;VHDL+%7C+Python+%7C+C%2FC%2B%2B" alt="Technical Focus" />
