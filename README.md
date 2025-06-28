@@ -51,8 +51,8 @@ ATM · Embedded ML Deployment · Hardware Simulation
 ### 📚 Education
 **Technical University of Munich**  
 `2021 - Present`  
-MSc Electrical Engineering & IT 
-BSc Electrical Engineering & IT  
+MSc Electrical Engineering & IT  
+BSc Electrical Engineering & IT
 
 ---
 
