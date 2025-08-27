@@ -58,8 +58,8 @@ BSc Electrical Engineering & IT
 
 ### 📈 Development Activity
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=lithegreat&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lithegreat&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=lithegreat&show_icons=true&theme=onedark&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lithegreat&layout=compact&theme=onedark&hide_border=true&&hide=javascript,typescript,html,makefile" />
 </p>
 
 ---
